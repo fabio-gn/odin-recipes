@@ -17,10 +17,30 @@ body{
     min-width: 400px;
     
 }
+
+#img-label{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    color:rgb(109, 107, 107);
+
+}
+#img-label a{
+    color: rgb(168, 73, 73);
+    text-decoration: none; 
+}
+
 .sottotitolo{
     color:rgb(162, 30, 30);
     font-family:'Times New Roman', Times, serif;
 }
+
+.sotto{
+    font-size 0,8 em;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 ul, ol{
     background-color:rgb(216, 216, 192);
     padding: 2rem;
