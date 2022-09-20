@@ -1,0 +1,28 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+.wrapper{
+    width: 85%;
+    margin: 0 auto;
+    background-color:beige;
+    padding: 30px;
+}
+#page-title{
+    text-align: center;
+}
+#recipe-photo{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    min-width: 400px;
+    
+}
+.sottotitolo{
+    color:rgb(162, 30, 30);
+    font-family:'Times New Roman', Times, serif;
+}
+ul, ol{
+    background-color:rgb(216, 216, 192);
+    padding: 2rem;
+    border-radius: 2rem;
+}
